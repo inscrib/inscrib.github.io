@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "25f4cc8f077230c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "46eaf708f5f10aab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bbef635112bf68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/焦慮使用說明書.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c91822d37e85c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04101fa32936b9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3698b8c616aabcfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b15e2c7929b2a46a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5dfc4e6c8287ee4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5332c2bfa4468de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "基础设施 AWS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f568bf7e439d398b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "955041b03cbffb02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0972447421cfef3d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.50390243530273
+  },
+  "right": {
+    "id": "246bd0838f8f40a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "166ecf9eee3475b0",
+        "type": "tabs",
+        "dimension": 31.92019950124688,
+        "children": [
+          {
+            "id": "d9c447a5c56d10b5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.9960205078125,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.298746744791667,
+                  "repelStrength": 13.7809244791667,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 1.9885368456908947,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "d05b2adb58e8f322",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "dedba0695c22f869",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md"
+              }
+            }
+          },
+          {
+            "id": "2ac176b8dbb5d7eb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "00f8f8ad2cb9f9b0",
+        "type": "tabs",
+        "dimension": 68.07980049875312,
+        "children": [
+          {
+            "id": "ccb7652bb733a848",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f488e06357db2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "109c669fb0e4b88f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "04101fa32936b9f7",
+  "lastOpenFiles": [
+    "vite.config.ts.timestamp-1721553582863-2598d9588d294.mjs",
+    "笔记/🍕Daily/🎈文章/ICLIGHTHOUSE.md",
+    "笔记/🍕Daily/🎈文章/ICP_SWAP.md",
+    "笔记/🍕Daily/🎈文章/焦慮使用說明書.md",
+    "笔记/📦 收集箱/📁 资源/AI 资源导航.md",
+    "vite.config.ts.timestamp-1721471262111-cc528190048f1.mjs",
+    "vite.config.ts.timestamp-1721470855409-bedc0cdf842eb.mjs",
+    "vite.config.ts.timestamp-1721470836251-d593f3a5fc15.mjs",
+    "vite.config.ts.timestamp-1721470614211-39f4ccdb6ce22.mjs",
+    "vite.config.ts.timestamp-1721470598796-6dd4f529acb66.mjs",
+    "笔记/🍕Daily/🎈文章/科技的本质：它是什么以及它如何演化.md",
+    "笔记/🍕Daily/🎈文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
+    "笔记/🍕Daily/🎈文章/人月神话.md",
+    "笔记/🍕Daily/🎈文章/The Open Source Sustainability Crisis.md",
+    "笔记/🍕Daily/🎈文章/The Engineering behind Figma's Vector Networks.md",
+    "笔记/🍕Daily/🎈文章/Mathematics for Machine Learning.md",
+    "笔记/🍕Daily/🎈文章/Displaying content as a graph - An exploration - This is important.md",
+    "笔记/🍕Daily/🎈文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
+    "笔记/🍕Daily/🎈文章",
+    "笔记/🍕Daily/文章/科技的本质：它是什么以及它如何演化.md",
+    "笔记/🍕Daily/文章/焦慮使用說明書.md",
+    "笔记/🍕Daily/文章/人月神话.md",
+    "笔记/🍕Daily/文章/The Open Source Sustainability Crisis.md",
+    "笔记/🍕Daily/文章/The Engineering behind Figma's Vector Networks.md",
+    "笔记/🍕Daily/文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
+    "笔记/🍕Daily/文章/Mathematics for Machine Learning.md",
+    "笔记/🍕Daily/文章/Displaying content as a graph - An exploration - This is important.md",
+    "笔记/🍕Daily/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
+    "笔记/🍕Daily/文章",
+    "笔记/文章/科技的本质：它是什么以及它如何演化.md",
+    "笔记/文章/焦慮使用說明書.md",
+    "笔记/文章/人月神话.md",
+    "笔记/文章/The Open Source Sustainability Crisis.md",
+    "笔记/文章",
+    "vite.config.ts.timestamp-1721469620390-aa65289188696.mjs",
+    "vite.config.ts.timestamp-1721469596085-bff0cd969feb7.mjs",
+    "笔记/🤖 AI 人工智能/从零开始的机器学习之旅/assets/start-from-running-a-pytorch-example-screenshot-4.png",
+    "笔记/🤖 AI 人工智能/从零开始的机器学习之旅/assets/start-from-running-a-pytorch-example-screenshot-3.png",
+    "笔记/🤖 AI 人工智能/从零开始的机器学习之旅/assets/start-from-running-a-pytorch-example-screenshot-2.png",
+    "笔记/🤖 AI 人工智能/从零开始的机器学习之旅/assets/start-from-running-a-pytorch-example-screenshot-1.png",
+    "笔记/📚 个人知识管理/assets/why-nolebase-moved-to-cc-by-sa-from-cc-by-nc-sa-screenshot-2.png",
+    "笔记/📚 个人知识管理/assets/obsidian-vitepress-and-nolebase-problems-ideas-vault-01.png.png",
+    "笔记/📚 个人知识管理/assets/why-nolebase-moved-to-cc-by-sa-from-cc-by-nc-sa-screenshot-1.png",
+    "public/android-chrome-192x192.png",
+    "public/apple-touch-icon.png",
+    "笔记/🎨 设计/assets/Pasted image 20240619153923.png",
+    "未命名.canvas"
+  ]
+}
